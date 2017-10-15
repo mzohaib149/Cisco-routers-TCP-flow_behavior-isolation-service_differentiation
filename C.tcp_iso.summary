@@ -1,0 +1,55 @@
+1 arg remaining, starting with 'C.tcp_iso_fair.trace'
+Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+623841 packets seen, 10670 TCP packets traced
+elapsed wallclock time: 0:00:01.275538, 489080 pkts/sec analyzed
+trace file elapsed time: 0:14:38.602986
+TCP connection info:
+  1: bb121-7-0-2.singnet.com.sg:36859 - bb121-7-64-2.singnet.com.sg:pcanywherestat (a2b)   23>   21<  (reset)
+  2: bb121-7-0-2.singnet.com.sg:36717 - bb121-7-64-2.singnet.com.sg:80 (c2d)               10>   13<  (reset)
+  3: bb121-7-0-2.singnet.com.sg:36720 - bb121-7-64-2.singnet.com.sg:80 (e2f)               27>   31<  (complete)
+  4: bb121-7-0-2.singnet.com.sg:36721 - bb121-7-64-2.singnet.com.sg:80 (g2h)               10>   10<  (reset)
+  5: bb121-7-0-2.singnet.com.sg:36722 - bb121-7-64-2.singnet.com.sg:80 (i2j)               13>   16<  (reset)
+  6: bb121-7-0-2.singnet.com.sg:36730 - bb121-7-64-2.singnet.com.sg:80 (k2l)               10>   13<  (reset)
+  7: bb121-7-0-2.singnet.com.sg:36739 - bb121-7-64-2.singnet.com.sg:80 (m2n)               28>   36<  (complete)
+  8: bb121-7-0-2.singnet.com.sg:36753 - bb121-7-64-2.singnet.com.sg:80 (o2p)                3>    7<  (reset)
+  9: bb121-7-0-2.singnet.com.sg:36762 - bb121-7-64-2.singnet.com.sg:80 (q2r)               27>   43<  (complete)
+ 10: bb121-7-0-2.singnet.com.sg:36780 - bb121-7-64-2.singnet.com.sg:80 (s2t)             3150> 5240<  (complete)
+ 11: bb121-7-0-2.singnet.com.sg:36797 - bb121-7-64-2.singnet.com.sg:80 (u2v)                6>    7<  (reset)
+ 12: bb121-7-0-2.singnet.com.sg:36800 - bb121-7-64-2.singnet.com.sg:80 (w2x)               23>   31<  (complete)
+ 13: bb121-7-0-2.singnet.com.sg:36798 - bb121-7-64-2.singnet.com.sg:80 (y2z)               11>   12<  (reset)
+ 14: bb121-7-0-2.singnet.com.sg:36804 - bb121-7-64-2.singnet.com.sg:80 (aa2ab)              9>    9<  (reset)
+ 15: bb121-7-0-2.singnet.com.sg:36806 - bb121-7-64-2.singnet.com.sg:80 (ac2ad)             23>   31<  (complete)  (reset)
+ 16: bb121-7-0-2.singnet.com.sg:36809 - bb121-7-64-2.singnet.com.sg:80 (ae2af)             24>   32<  (complete)  (reset)
+ 17: bb121-7-0-2.singnet.com.sg:36811 - bb121-7-64-2.singnet.com.sg:80 (ag2ah)             28>   35<  (complete)
+ 18: bb121-7-0-2.singnet.com.sg:36813 - bb121-7-64-2.singnet.com.sg:80 (ai2aj)              9>    9<  (reset)
+ 19: bb121-7-0-2.singnet.com.sg:37672 - bb121-7-64-2.singnet.com.sg:80 (ak2al)             27>   36<  (complete)
+ 20: bb121-7-0-2.singnet.com.sg:37670 - bb121-7-64-2.singnet.com.sg:80 (am2an)              9>   13<  (reset)
+ 21: bb121-7-0-2.singnet.com.sg:37684 - bb121-7-64-2.singnet.com.sg:80 (ao2ap)             32>   42<  (complete)  (reset)
+ 22: bb121-7-0-2.singnet.com.sg:37701 - bb121-7-64-2.singnet.com.sg:80 (aq2ar)             31>   40<  (complete)
+ 23: bb121-7-0-2.singnet.com.sg:37764 - bb121-7-64-2.singnet.com.sg:80 (as2at)             27>   35<  (complete)
+ 24: bb121-7-0-2.singnet.com.sg:37778 - bb121-7-64-2.singnet.com.sg:80 (au2av)             28>   37<  (complete)
+ 25: bb121-7-0-2.singnet.com.sg:37791 - bb121-7-64-2.singnet.com.sg:80 (aw2ax)             25>   35<  (complete)
+ 26: bb121-7-0-2.singnet.com.sg:37798 - bb121-7-64-2.singnet.com.sg:80 (ay2az)             28>   37<  (complete)
+ 27: bb121-7-0-2.singnet.com.sg:37809 - bb121-7-64-2.singnet.com.sg:80 (ba2bb)             27>   38<  (complete)
+ 28: bb121-7-0-2.singnet.com.sg:37828 - bb121-7-64-2.singnet.com.sg:80 (bc2bd)             26>   36<  (complete)
+ 29: bb121-7-0-2.singnet.com.sg:37832 - bb121-7-64-2.singnet.com.sg:80 (be2bf)             11>   11<  (reset)
+ 30: bb121-7-0-2.singnet.com.sg:37837 - bb121-7-64-2.singnet.com.sg:80 (bg2bh)             24>   35<  (complete)
+ 31: bb121-7-0-2.singnet.com.sg:37842 - bb121-7-64-2.singnet.com.sg:80 (bi2bj)             11>   12<  (reset)
+ 32: bb121-7-0-2.singnet.com.sg:37843 - bb121-7-64-2.singnet.com.sg:80 (bk2bl)             27>   37<  (complete)
+ 33: bb121-7-0-2.singnet.com.sg:37853 - bb121-7-64-2.singnet.com.sg:80 (bm2bn)              7>    9<  (reset)
+ 34: bb121-7-0-2.singnet.com.sg:37855 - bb121-7-64-2.singnet.com.sg:80 (bo2bp)             25>   33<  (complete)
+ 35: bb121-7-0-2.singnet.com.sg:37860 - bb121-7-64-2.singnet.com.sg:80 (bq2br)             10>   14<  (reset)
+ 36: bb121-7-0-2.singnet.com.sg:37861 - bb121-7-64-2.singnet.com.sg:80 (bs2bt)             27>   41<
+ 37: bb121-7-0-2.singnet.com.sg:55725 - bb121-7-64-2.singnet.com.sg:80 (bu2bv)             22>   34<
+ 38: bb121-7-0-2.singnet.com.sg:55729 - bb121-7-64-2.singnet.com.sg:80 (bw2bx)             30>   41<  (reset)
+ 39: bb121-7-0-2.singnet.com.sg:55731 - bb121-7-64-2.singnet.com.sg:80 (by2bz)             28>   34<  (complete)
+ 40: bb121-7-0-2.singnet.com.sg:55734 - bb121-7-64-2.singnet.com.sg:80 (ca2cb)             26>   38<  (complete)
+ 41: bb121-7-0-2.singnet.com.sg:55747 - bb121-7-64-2.singnet.com.sg:80 (cc2cd)             28>   35<  (complete)
+ 42: bb121-7-0-2.singnet.com.sg:55751 - bb121-7-64-2.singnet.com.sg:80 (ce2cf)             26>   33<  (complete)
+ 43: bb121-7-0-2.singnet.com.sg:55754 - bb121-7-64-2.singnet.com.sg:80 (cg2ch)             27>   41<  (complete)
+ 44: bb121-7-0-2.singnet.com.sg:55790 - bb121-7-64-2.singnet.com.sg:80 (ci2cj)             26>   38<
+ 45: bb121-7-0-2.singnet.com.sg:55795 - bb121-7-64-2.singnet.com.sg:80 (ck2cl)             24>   37<  (complete)
+ 46: bb121-7-0-2.singnet.com.sg:37818 - bb121-7-64-2.singnet.com.sg:80 (cm2cn)             27>   35<  (complete)
+ 47: bb121-7-0-2.singnet.com.sg:37829 - bb121-7-64-2.singnet.com.sg:80 (co2cp)             29>   35<  (complete)
+ 48: bb121-7-0-2.singnet.com.sg:37835 - bb121-7-64-2.singnet.com.sg:80 (cq2cr)              1>    2<
